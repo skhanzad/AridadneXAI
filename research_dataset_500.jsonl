@@ -1,0 +1,30 @@
+{"query": "What is the capital of France?", "expected_answer": "Paris", "metadata": {"category": "General Knowledge", "subcategory": "Geography"}}
+{"query": "Who wrote Romeo and Juliet?", "expected_answer": "William Shakespeare", "metadata": {"category": "General Knowledge", "subcategory": "Literature"}}
+{"query": "What is the largest ocean on Earth?", "expected_answer": "Pacific Ocean", "metadata": {"category": "General Knowledge", "subcategory": "Geography"}}
+{"query": "In which year did World War II end?", "expected_answer": "1945", "metadata": {"category": "General Knowledge", "subcategory": "History"}}
+{"query": "What is the chemical symbol for gold?", "expected_answer": "Au", "metadata": {"category": "General Knowledge", "subcategory": "Chemistry"}}
+{"query": "Who painted the Mona Lisa?", "expected_answer": "Leonardo da Vinci", "metadata": {"category": "General Knowledge", "subcategory": "Art"}}
+{"query": "What is the smallest country in the world?", "expected_answer": "Vatican City", "metadata": {"category": "General Knowledge", "subcategory": "Geography"}}
+{"query": "What is the longest river in the world?", "expected_answer": "Nile River", "metadata": {"category": "General Knowledge", "subcategory": "Geography"}}
+{"query": "Who was the first person to walk on the moon?", "expected_answer": "Neil Armstrong", "metadata": {"category": "General Knowledge", "subcategory": "History"}}
+{"query": "What is the capital of Japan?", "expected_answer": "Tokyo", "metadata": {"category": "General Knowledge", "subcategory": "Geography"}}
+{"query": "What causes global warming?", "expected_answer": "Greenhouse gases trap heat in the atmosphere", "metadata": {"category": "Scientific Reasoning", "subcategory": "Climate Science"}}
+{"query": "How does photosynthesis work?", "expected_answer": "Plants convert sunlight, water, and CO2 into glucose and oxygen", "metadata": {"category": "Scientific Reasoning", "subcategory": "Biology"}}
+{"query": "What is the greenhouse effect?", "expected_answer": "The process by which radiation from a planet's atmosphere warms the planet's surface", "metadata": {"category": "Scientific Reasoning", "subcategory": "Climate Science"}}
+{"query": "Why do we have seasons on Earth?", "expected_answer": "Due to the tilt of Earth's axis relative to its orbit around the sun", "metadata": {"category": "Scientific Reasoning", "subcategory": "Earth Science"}}
+{"query": "What is natural selection?", "expected_answer": "The process by which organisms better adapted to their environment tend to survive and reproduce", "metadata": {"category": "Scientific Reasoning", "subcategory": "Biology"}}
+{"query": "How do vaccines work?", "expected_answer": "They stimulate the immune system to produce antibodies without causing disease", "metadata": {"category": "Scientific Reasoning", "subcategory": "Biology"}}
+{"query": "What is the difference between weather and climate?", "expected_answer": "Weather is short-term atmospheric conditions, climate is long-term patterns", "metadata": {"category": "Scientific Reasoning", "subcategory": "Climate Science"}}
+{"query": "What causes ocean currents?", "expected_answer": "Wind, temperature differences, salinity, and Earth's rotation", "metadata": {"category": "Scientific Reasoning", "subcategory": "Oceanography"}}
+{"query": "How do antibiotics work?", "expected_answer": "They kill or inhibit the growth of bacteria", "metadata": {"category": "Scientific Reasoning", "subcategory": "Biology"}}
+{"query": "What is the carbon cycle?", "expected_answer": "The process by which carbon moves between the atmosphere, oceans, and living organisms", "metadata": {"category": "Scientific Reasoning", "subcategory": "Climate Science"}}
+{"query": "Calculate 25 * 4 + 10", "expected_answer": "110", "metadata": {"category": "Mathematical Logic", "subcategory": "Arithmetic"}}
+{"query": "What is 2^10?", "expected_answer": "1024", "metadata": {"category": "Mathematical Logic", "subcategory": "Arithmetic"}}
+{"query": "If x + 5 = 12, what is x?", "expected_answer": "7", "metadata": {"category": "Mathematical Logic", "subcategory": "Algebra"}}
+{"query": "What is the square root of 144?", "expected_answer": "12", "metadata": {"category": "Mathematical Logic", "subcategory": "Arithmetic"}}
+{"query": "Calculate 100 / 4 * 3", "expected_answer": "75", "metadata": {"category": "Mathematical Logic", "subcategory": "Arithmetic"}}
+{"query": "If all A are B, and all B are C, then all A are C. Is this valid logic?", "expected_answer": "Yes, this is a valid syllogism", "metadata": {"category": "Mathematical Logic", "subcategory": "Logic"}}
+{"query": "What is 15% of 200?", "expected_answer": "30", "metadata": {"category": "Mathematical Logic", "subcategory": "Arithmetic"}}
+{"query": "Solve: 3x - 7 = 14", "expected_answer": "x = 7", "metadata": {"category": "Mathematical Logic", "subcategory": "Algebra"}}
+{"query": "What is the factorial of 5?", "expected_answer": "120", "metadata": {"category": "Mathematical Logic", "subcategory": "Arithmetic"}}
+{"query": "If P implies Q, and Q is false, what can we conclude about P?", "expected_answer": "P must be false (modus tollens)", "metadata": {"category": "Mathematical Logic", "subcategory": "Logic"}}

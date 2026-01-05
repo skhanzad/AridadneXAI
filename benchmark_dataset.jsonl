@@ -1,0 +1,5 @@
+{"query": "What is the capital of France?", "expected_answer": "Paris", "metadata": {"category": "geography", "difficulty": "easy"}}
+{"query": "What causes global warming?", "expected_answer": "Greenhouse gases trap heat in the atmosphere", "metadata": {"category": "science", "difficulty": "medium"}}
+{"query": "Calculate 25 * 4 + 10", "expected_answer": "110", "metadata": {"category": "math", "difficulty": "easy"}}
+{"query": "Who wrote Romeo and Juliet?", "expected_answer": "William Shakespeare", "metadata": {"category": "literature", "difficulty": "easy"}}
+{"query": "What is the largest planet in our solar system?", "expected_answer": "Jupiter", "metadata": {"category": "astronomy", "difficulty": "easy"}}
