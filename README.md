@@ -222,7 +222,7 @@ If you use this framework in your research, please cite:
 ```bibtex
 @software{ariadne2024,
   title={Project Ariadne: Causal Audit for Agentic Reasoning},
-  author={Your Name},
+  author={Sourena Khanzadeh},
   year={2024},
   url={https://github.com/yourusername/ariadne-xai}
 }
