@@ -228,13 +228,6 @@ If you use this framework in your research, please cite:
 }
 ```
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Contributing guidelines]
 
 ## Acknowledgments
 
