@@ -224,7 +224,7 @@ If you use this framework in your research, please cite:
   title={Project Ariadne: Causal Audit for Agentic Reasoning},
   author={Sourena Khanzadeh},
   year={2024},
-  url={https://github.com/yourusername/ariadne-xai}
+  url={https://github.com/skhanzad/ariadne-xai}
 }
 ```
 
