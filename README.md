@@ -1,6 +1,7 @@
 # Project Ariadne: Causal Audit for Agentic Reasoning
 
 A research-grade framework for evaluating the **Causal Faithfulness** of LLM Agents through systematic causal interventions.
+Paper found at [Ariadne](https://arxiv.org/pdf/2601.02314).
 
 ## Overview
 
@@ -227,7 +228,18 @@ If you use this framework in your research, please cite:
   url={https://github.com/skhanzad/ariadne-xai}
 }
 ```
-
+Paper:
+```bibtex
+@misc{khanzadeh2026projectariadnestructuralcausal,
+      title={Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents}, 
+      author={Sourena Khanzadeh},
+      year={2026},
+      eprint={2601.02314},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2601.02314}, 
+}
+```
 
 ## Acknowledgments
 
