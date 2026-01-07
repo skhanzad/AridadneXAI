@@ -220,14 +220,7 @@ pip install --upgrade -r requirements.txt
 
 If you use this framework in your research, please cite:
 
-```bibtex
-@software{ariadne2024,
-  title={Project Ariadne: Causal Audit for Agentic Reasoning},
-  author={Sourena Khanzadeh},
-  year={2024},
-  url={https://github.com/skhanzad/ariadne-xai}
-}
-```
+
 Paper:
 ```bibtex
 @misc{khanzadeh2026projectariadnestructuralcausal,
